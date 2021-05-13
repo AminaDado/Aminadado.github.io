@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>BATIDOUKS</title>
+	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Bâtir, quand la passion s&#039;exprime...</description>
+	<lastBuildDate>Fri, 08 Jan 2021 23:13:21 +0000</lastBuildDate>
+	<language>fr-FR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/12/cropped-cropped-cropped-image-13-1-1-32x32.png</url>
+	<title>BATIDOUKS</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>L&#8217;expérience du dirigeant</title>
+		<link>/lexperience-du-dirigeant-2/</link>
+					<comments>/lexperience-du-dirigeant-2/#respond</comments>
+		
+		<dc:creator><![CDATA[batidouks]]></dc:creator>
+		<pubDate>Mon, 04 Jan 2021 22:34:34 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http://batidouks.com/?p=161</guid>
+
+					<description><![CDATA[Boubacar DOUCOURE, Diplômé en tant que économiste de la construction et Management de projet BIM en France. Fort d’une expérience de plusieurs années en tant que : Conducteur de travaux au sein d’un grand groupe français leader dans le monde de la construction puis Économiste de la construction et Manager de projet BIM dans un [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p id="block-ffeae621-4e15-49e7-966a-0cb90a683b9a">Boubacar  DOUCOURE, </p>
+
+
+
+<p class="has-text-align-left" id="block-ffeae621-4e15-49e7-966a-0cb90a683b9a">Diplômé en tant que économiste de la construction et Management de projet BIM en France. Fort d’une expérience de plusieurs années en tant que : Conducteur de travaux au sein d’un grand groupe français leader dans le monde de la construction puis Économiste de la construction et Manager de projet BIM dans un cabinet de Maitrise d’oeuvre, ces deux expériences ont renforcé ma volonté d’évoluer dans ce domaine Passionné par la construction et l’architecture, j’ai crée mon entreprise, BATIDOUKS, récemment au SENEGAL afin d’y apporter mon expertise.</p>
+
+
+
+<p id="block-2cd50d2e-d62f-4dd0-8cae-f64c4e345ccb">Je souhaite que chacun de mes clients puisse évoluer dans un bâtiment qui lui ressemble. Un bâtiment dont chaque partie résulte d’un fort savoir-faire et d’une haute technicité.&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/lexperience-du-dirigeant-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
